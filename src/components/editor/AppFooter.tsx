@@ -17,6 +17,8 @@ import NamerUiBadge from "./NamerUiBadge";
 
 [WebGL Doom Glare](https://github.com/michaeldll/webgl-doom-glare) by [Michael](https://github.com/michaeldll)
 
+[three.js](https://github.com/mrdoob/three.js) by [mrdoob](https://github.com/mrdoob)
+
 [Brushed Metal](https://codepen.io/simurai/pen/kvyEeg) by [simurai](https://codepen.io/simurai)
 
 [Electric Lorenz Attractor](https://codepen.io/VoXelo/pen/gbrXozL) by [Techartist](https://codepen.io/VoXelo)
@@ -33,7 +35,7 @@ import NamerUiBadge from "./NamerUiBadge";
 
 [すりガラスなプロフィールカード](https://codepen.io/ash_creator/pen/zYaPZLB) by [あしざわ - Webクリエイター](https://codepen.io/ash_creator)
 
-[Neon Button](ttps://codepen.io/HighFlyer/pen/WNXRZBv) by [Thea](https://codepen.io/HighFlyer)`;
+[Neon Button](https://codepen.io/HighFlyer/pen/WNXRZBv) by [Thea](https://codepen.io/HighFlyer)`;
 
 function renderEntry(entry: string) {
   const regex = /\[([^\]]+)\]\(([^)]+)\)/g;
